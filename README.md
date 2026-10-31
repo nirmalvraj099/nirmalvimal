@@ -1,47 +1,42 @@
-⚙️ About Me
+# Hey, I'm Nirmal 👋
 
-Hi, I'm a Mechanical Engineer 👋
+### Mechanical Engineer · Design Engineer · Product Builder
 
-🎓 Bachelor's in Mechanical Engineering
-🛠️ Mechanical Design · CAD/3D Modelling · Engineering Drafting
-🚀 Interested in connecting physical engineering with digital technology to solve real-world problems.
+I'm a Mechanical Engineering graduate passionate about transforming ideas into practical solutions by connecting mechanical design, digital technologies, and real-world problem-solving.
 
-I enjoy exploring how engineering design, computational tools, and emerging technologies can transform conventional systems into smarter, more efficient solutions.
+With **3+ years of professional experience in design engineering**, I've contributed to marine and offshore engineering, shipbuilding, and cargo structure projects — working across 2D drafting, 3D modelling, engineering design, and simulation.
 
-🔧 What I Build
+I enjoy looking beyond conventional engineering boundaries: understanding how things work, identifying what can be improved, and exploring how modern tools and emerging technologies can make them better.
 
-⚙️ Engineering Designs — 2D technical drawings, 3D models, and mechanical assemblies.
+### 🚀 What I'm Building
 
-🧩 Digital Engineering Solutions — Exploring ways to improve conventional engineering workflows using digital tools.
+I'm currently developing a platform designed to connect **multidisciplinary talent, businesses, and emerging technologies**.
 
-💡 Practical Problem-Solving — Turning real-world challenges into technical concepts and potential solutions.
+The vision is to:
+- Bring people from different industries together to solve real-world challenges.
+- Help businesses discover new opportunities through modern technologies and services.
+- Turn overlooked problems and promising ideas into practical projects, prototypes, and innovations.
+- Build a bridge between today's capabilities and tomorrow's possibilities.
 
-🚀 Innovation Concepts — Exploring product development, CAD/CAM, and technology-driven ideas.
+**I believe the next breakthrough won't come from one skill or one industry — it will come from how we connect them.**
 
-🚀 Featured Projects
+### 🛠️ Engineering & Technical Toolkit
 
-🛠️ 3D Mechanical Modelling
-Mechanical components, assemblies, and design concepts developed using CAD software.
+- **CAD & 3D Design:** AutoCAD · Autodesk Inventor · SolidWorks · CATIA V5 · Siemens NX
+- **Engineering:** 2D Drafting · 3D Modelling · Structural Design · Marine & Offshore Engineering
+- **Digital Workflow:** Git · GitHub · Learning modern development tools and workflows
+- **Areas of Interest:** Prototyping · Simulation · Product Development · Hardware–Software Integration · Emerging Technologies
 
-📐 Engineering Drawing & Design
-Technical drawings, design documentation, and 3D-to-2D engineering workflows.
+### 🔭 What I'm Exploring
 
-💡 Engineering Innovation
-Exploring practical solutions that connect mechanical engineering with emerging technologies.
+- Connecting physical engineering with digital ecosystems.
+- Building technology-driven solutions for conventional industries.
+- Exploring multidisciplinary collaboration and future-oriented product development.
 
-More projects and technical explorations coming soon.
+### 🤝 Let's Collaborate
 
-🧰 Tools & Technologies
+I'm always interested in connecting with engineers, designers, developers, researchers, founders, and curious minds who enjoy solving meaningful problems.
 
-CAD & 3D Design
-AutoCAD · Autodesk Inventor · SolidWorks · CATIA V5
+**Have an idea worth exploring? Let's turn it into something real.**
 
-Engineering
-Mechanical Design · 3D Modelling · Assembly Design · Technical Drafting
-
-Areas of Interest
-CAD/CAM · Product Development · Digital Engineering · Engineering Innovation
-
-📬 Let's Connect
-
-I'm interested in connecting with engineers, designers, developers, and innovators who enjoy solving real-world problems through technology.Who I Am 👀
+📩 Feel free to connect, collaborate, or build something meaningful together.
